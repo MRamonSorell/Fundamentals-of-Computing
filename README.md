@@ -1,7 +1,7 @@
 # Fundamentals-of-Computing
 These are my programs from Rice University's Fundamentals of Computing courses: Interactive Programming part 1 and 2.
 The programs are written in Python2 and require using Codeskulptor. I took the courses in Fall 2018 and Winter 2019.
-You can see videos of the programs at my blog:https://composingvianumbers.blogspot.com/
+You can see videos of the programs at my [blog](https://composingvianumbers.blogspot.com/)
 
 From Rice University:
 
